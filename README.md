@@ -3,7 +3,7 @@
 #### Corresponding author: [Eitan Hemed](mailto:Eitan.Hemed@gmail.com)
 
 ___
-####About  
+###About  
 This repository contains the [accepted manuscript](./Manuscript.pdf), 
 a text document of the [supplementary materials](./Supplementary%20material.pdf) 
 and all code and data required to reproduce the analyses
@@ -15,8 +15,7 @@ https://github.com/EitanHemed/automatically_controlled/issues)
 or email [Eitan Hemed](mailto:Eitan.Hemed@gmail.com) directly.
 
 ---
-
-####**How-To**
+###**How-To**
 The [AuimPy package](./auimpy) consists of classes and functions used 
 to pre-process, analyze and plot the study data. The data is
 saved in the individual experiment directories (e.g., `./exp_2/input`).
@@ -37,7 +36,8 @@ are available in the `data` pd.DataFrame.
   * The `PrepAIR` object can generate a textual report of the pre-processing 
     results (`prpr.report_invalid_trials()`), or plot the aggregated 
     behavioral measures 
-    (RT or error rate; `prpr.plot_descriptives('rt', by_condition=True, pre_filteration=True)`)
+    (RT or error rate; 
+    `prpr.plot_descriptives('rt', by_condition=True, pre_filteration=True)`)
     ![Plot](./exp4/output/figs/prepair/rt_pre_filteration_True_by_cond_True.png)
   * The call to `prpr.get_finalized_data()` returns the data used with the 
     `air.AIR` class, see below. 
@@ -63,7 +63,7 @@ are available in the `data` pd.DataFrame.
    ![Plot](./meta_plots/plots/MMP_filtered_data_True.png)
 
 ---
-## Dependencies 
+###**Dependencies** 
 The code might work with other versions, but this has not been tested.
 - Python 3.7.4
 - Jupyter Notebook
