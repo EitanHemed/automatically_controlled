@@ -1,0 +1,11 @@
+FILTERATION REPORT FOR FILTERED DATA: 
+***
+Invalid trials included incorrect or omitted responses (8.39%), slow responses (>950ms, 0.98%) fast responses (<150ms, 3.5%), and trials in which participants did not press the keys down correctly in the beginning of the trial (6.85%). Finally, all data from 4 participants (<60% valid trials, 7.14% of 56) were removed. Total filtration amounted to 16.8%.
+***
+                   Mean Response Time   Error Rate     Drift Rate Boundary Separation Non-Decision Time
+Condition (n = 52)                                                                                     
+Baseline                480.8 (64.83)  6.67 (7.35)   0.32 (0.086)       0.092 (0.016)    351.83 (50.12)
+Compatible             464.31 (60.47)  5.38 (6.34)    0.374 (0.1)       0.084 (0.015)    359.98 (46.68)
+Incompatible           504.08 (82.58)  9.87 (9.43)  0.288 (0.103)       0.088 (0.015)     373.0 (71.57)
+Irrelevant             480.83 (73.42)  7.18 (6.78)  0.321 (0.085)       0.089 (0.018)     356.31 (53.8)
+***

@@ -1,0 +1,35 @@
+ANALYSIS REPORT FOR UNFILTERED DATA - Mean Response Time (ms): 
+***
+Repeated-Measures ANOVA showed a significant effect of experimental condition on Mean Response Time [F(2, 96) = 17.46, p < 0.001, Partial-η Squared = 0.244]
+The Compatible condition Lower-tail t(54) = -4.13, p < 0.001, Mean Response Time Change -25.83ms, Cohen's d = -0.56 95%-CI [-0.84, -0.28], BF1:0 = 361.330
+The Incompatible condition Upper-tail t(54) = 1.83, p = 0.036, Mean Response Time Change 9.49ms, Cohen's d = 0.25 95%-CI [-0.02, 0.52], BF1:0 = 1.340
+The Irrelevant condition Two-tail t(54) = -0.12, p = 0.908, Mean Response Time Change -0.62ms, Cohen's d = -0.02 95%-CI [-0.28, 0.25], BF1:0 = 0.150
+***
+ANALYSIS REPORT FOR UNFILTERED DATA - Error Rate (%): 
+***
+Repeated-Measures ANOVA showed a significant effect of experimental condition on Error Rate [F(2, 87) = 8.20, p = 0.001, Partial-η Squared = 0.132]
+The Compatible condition Lower-tail t(54) = -2.61, p = 0.006, Error Rate Change -1.14%, Cohen's d = -0.35 95%-CI [-0.63, -0.08], BF1:0 = 6.300
+The Incompatible condition Upper-tail t(54) = 2.06, p = 0.022, Error Rate Change 1.86%, Cohen's d = 0.28 95%-CI [0.01, 0.55], BF1:0 = 2.010
+The Irrelevant condition Two-tail t(54) = 0.40, p = 0.694, Error Rate Change 0.23%, Cohen's d = 0.05 95%-CI [-0.21, 0.32], BF1:0 = 0.160
+***
+ANALYSIS REPORT FOR UNFILTERED DATA - Drift Rate (v): 
+***
+Repeated-Measures ANOVA showed a significant effect of experimental condition on Drift Rate [F(2, 100) = 12.44, p < 0.001, Partial-η Squared = 0.187]
+The Compatible condition Upper-tail t(54) = 2.51, p = 0.007, Drift Rate Change 0.0326v, Cohen's d = 0.34 95%-CI [0.07, 0.61], BF1:0 = 5.100
+The Incompatible condition Lower-tail t(54) = -2.50, p = 0.008, Drift Rate Change -0.0233v, Cohen's d = -0.34 95%-CI [-0.61, -0.07], BF1:0 = 4.970
+The Irrelevant condition Two-tail t(54) = -1.92, p = 0.061, Drift Rate Change -0.0183v, Cohen's d = -0.26 95%-CI [-0.53, 0.01], BF1:0 = 0.800
+***
+ANALYSIS REPORT FOR UNFILTERED DATA - Boundary Separation (a): 
+***
+Repeated-Measures ANOVA showed an insignificant effect of experimental condition on Boundary Separation [F(2, 92) = 0.61, p = 0.519, Partial-η Squared = 0.011]
+The Compatible condition Lower-tail t(54) = -0.11, p = 0.455, Boundary Separation Change -0.0008a, Cohen's d = -0.01 95%-CI [-0.28, 0.25], BF1:0 = 0.160
+The Incompatible condition Upper-tail t(54) = -0.66, p = 0.744, Boundary Separation Change -0.0031a, Cohen's d = -0.09 95%-CI [-0.35, 0.17], BF1:0 = 0.090
+The Irrelevant condition Two-tail t(54) = 0.71, p = 0.482, Boundary Separation Change 0.0036a, Cohen's d = 0.10 95%-CI [-0.17, 0.36], BF1:0 = 0.190
+***
+ANALYSIS REPORT FOR UNFILTERED DATA - Non-Decision Time (s): 
+***
+Repeated-Measures ANOVA showed an insignificant effect of experimental condition on Non-Decision Time [F(2, 97) = 1.68, p = 0.195, Partial-η Squared = 0.030]
+The Compatible condition Lower-tail t(54) = -1.25, p = 0.108, Non-Decision Time Change -0.0249s, Cohen's d = -0.17 95%-CI [-0.44, 0.10], BF1:0 = 0.550
+The Incompatible condition Upper-tail t(54) = 0.56, p = 0.288, Non-Decision Time Change 0.0077s, Cohen's d = 0.08 95%-CI [-0.19, 0.34], BF1:0 = 0.240
+The Irrelevant condition Two-tail t(54) = -1.01, p = 0.318, Non-Decision Time Change -0.0165s, Cohen's d = -0.14 95%-CI [-0.40, 0.13], BF1:0 = 0.240
+***

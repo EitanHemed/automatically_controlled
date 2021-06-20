@@ -1,0 +1,812 @@
+Unnamed: 13,allowed_keys,date,expName,frameRate,img,limit_chars,participant,que,resp,trials.thisIndex,trials.thisN,trials.thisRepN,trials.thisTrialN
+,['return'],2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides1.jpg,"[0, 0]",2,intro,,0,0,0,0
+,[],2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides0.jpg,"[1, 140]",2,debrief,םיאור ונחנאש המ וא חומה ףוגה לע טלושש ימ תעדל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides5.jpg,"[1, 1]",2,degree,1,2,2,0,2
+,[],2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides6.jpg,"[1, 140]",2,faculty,דחוימ ךוניח היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides7.jpg,"[1, 3]",2,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides2.jpg,"[1, 1]",2,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides3.jpg,"[1, 2]",2,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides4.jpg,"[3, 3]",2,sat,623,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides8.jpg,"[1, 1]",2,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides9.jpg,"[1, 1]",2,adhd,2,9,9,0,9
+,[],2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides10.jpg,"[1, 140]",2,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides11.jpg,"[1, 1]",2,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides13.jpg,"[1, 1]",2,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1629,demog_exp,119.926769398,Slides\Slides12.jpg,"[1, 1]",2,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides1.jpg,"[0, 0]",3,intro,,0,0,0,0
+,[],2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides0.jpg,"[1, 140]",3,debrief,עבצאל רפסמה ןיב םאוצ אלו םאוצ בצמב הבגה ןמז לש הקידב,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides5.jpg,"[1, 1]",3,degree,2,2,2,0,2
+,[],2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides6.jpg,"[1, 140]",3,faculty,היגולופוכיספו חומ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides7.jpg,"[1, 3]",3,gpa,87,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides2.jpg,"[1, 1]",3,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides3.jpg,"[1, 2]",3,age,32,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides4.jpg,"[3, 3]",3,sat,584,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides8.jpg,"[1, 1]",3,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides9.jpg,"[1, 1]",3,adhd,2,9,9,0,9
+,[],2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides10.jpg,"[1, 140]",3,lang,ירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides11.jpg,"[1, 1]",3,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides13.jpg,"[1, 1]",3,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_03_1921,demog_exp,119.890354286,Slides\Slides12.jpg,"[1, 1]",3,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides1.jpg,"[0, 0]",4,intro,,0,0,0,0
+,[],2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides0.jpg,"[1, 140]",4,debrief,םיעירפמ םייוריג ןתניהב תרדגומ המישמל םדאה בשק תא ןייפאל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides5.jpg,"[1, 1]",4,degree,1,2,2,0,2
+,[],2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides6.jpg,"[1, 140]",4,faculty,ס''פיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides7.jpg,"[1, 3]",4,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides2.jpg,"[1, 1]",4,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides3.jpg,"[1, 2]",4,age,24,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides4.jpg,"[3, 3]",4,sat,699,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides8.jpg,"[1, 1]",4,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides9.jpg,"[1, 1]",4,adhd,1,9,9,0,9
+,[],2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides10.jpg,"[1, 140]",4,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides11.jpg,"[1, 1]",4,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides13.jpg,"[1, 1]",4,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0938,demog_exp,119.987275553,Slides\Slides12.jpg,"[1, 1]",4,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides1.jpg,"[0, 0]",5,intro,,0,0,0,0
+,[],2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides0.jpg,"[1, 140]",5,debrief,היארל סחיב הבוגתה תוריהמ תקידב,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides5.jpg,"[1, 1]",5,degree,1,2,2,0,2
+,[],2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides6.jpg,"[1, 140]",5,faculty,תואנובשחו הלכלכ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides7.jpg,"[1, 3]",5,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides2.jpg,"[1, 1]",5,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides3.jpg,"[1, 2]",5,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides4.jpg,"[3, 3]",5,sat,725,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides8.jpg,"[1, 1]",5,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides9.jpg,"[1, 1]",5,adhd,2,9,9,0,9
+,[],2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides10.jpg,"[1, 140]",5,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides11.jpg,"[1, 1]",5,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides13.jpg,"[1, 1]",5,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_0954,demog_exp,119.775807667,Slides\Slides12.jpg,"[1, 1]",5,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides1.jpg,"[0, 0]",6,intro,,0,0,0,0
+,[],2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides0.jpg,"[1, 140]",6,debrief,םירהל עבצא הזיא ונלש הטלחהה לע עיפשמ יוריגה םא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides5.jpg,"[1, 1]",6,degree,1,2,2,0,2
+,[],2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides6.jpg,"[1, 140]",6,faculty,היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides7.jpg,"[1, 3]",6,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides2.jpg,"[1, 1]",6,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides3.jpg,"[1, 2]",6,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides4.jpg,"[3, 3]",6,sat,682,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides8.jpg,"[1, 1]",6,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides9.jpg,"[1, 1]",6,adhd,2,9,9,0,9
+,[],2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides10.jpg,"[1, 140]",6,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides11.jpg,"[1, 1]",6,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides13.jpg,"[1, 1]",6,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1021,demog_exp,119.957459751,Slides\Slides12.jpg,"[1, 1]",6,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides1.jpg,"[0, 0]",7,intro,,0,0,0,0
+,[],2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides0.jpg,"[1, 140]",7,debrief,בשק תייטה קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides5.jpg,"[1, 1]",7,degree,1,2,2,0,2
+,[],2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides6.jpg,"[1, 140]",7,faculty,תיללכ הירוטסיהו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides7.jpg,"[1, 3]",7,gpa,88,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides2.jpg,"[1, 1]",7,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides3.jpg,"[1, 2]",7,age,24,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides4.jpg,"[3, 3]",7,sat,694,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides8.jpg,"[1, 1]",7,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides9.jpg,"[1, 1]",7,adhd,2,9,9,0,9
+,[],2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides10.jpg,"[1, 140]",7,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides11.jpg,"[1, 1]",7,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides13.jpg,"[1, 1]",7,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1040,demog_exp,119.794439864,Slides\Slides12.jpg,"[1, 1]",7,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides1.jpg,"[0, 0]",9,intro,,0,0,0,0
+,[],2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides0.jpg,"[1, 140]",9,debrief, דחיב דיהו חומה לש הדובעה תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides5.jpg,"[1, 1]",9,degree,1,2,2,0,2
+,[],2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides6.jpg,"[1, 140]",9,faculty,יגוח דח היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides7.jpg,"[1, 3]",9,gpa,100,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides2.jpg,"[1, 1]",9,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides3.jpg,"[1, 2]",9,age,21,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides4.jpg,"[3, 3]",9,sat,616,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides8.jpg,"[1, 1]",9,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides9.jpg,"[1, 1]",9,adhd,2,9,9,0,9
+,[],2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides10.jpg,"[1, 140]",9,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides11.jpg,"[1, 1]",9,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides13.jpg,"[1, 1]",9,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1112,demog_exp,119.717730146,Slides\Slides12.jpg,"[1, 1]",9,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides1.jpg,"[0, 0]",10,intro,,0,0,0,0
+,[],2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides0.jpg,"[1, 140]",10,debrief,בשק תקידב,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides5.jpg,"[1, 1]",10,degree,1,2,2,0,2
+,[],2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides6.jpg,"[1, 140]",10,faculty,הלכלכ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides7.jpg,"[1, 3]",10,gpa,87,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides2.jpg,"[1, 1]",10,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides3.jpg,"[1, 2]",10,age,28,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides4.jpg,"[3, 3]",10,sat,715,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides8.jpg,"[1, 1]",10,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides9.jpg,"[1, 1]",10,adhd,2,9,9,0,9
+,[],2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides10.jpg,"[1, 140]",10,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides11.jpg,"[1, 1]",10,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides13.jpg,"[1, 1]",10,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1123,demog_exp,119.878763848,Slides\Slides12.jpg,"[1, 1]",10,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides1.jpg,"[0, 0]",11,intro,,0,0,0,0
+,[],2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides0.jpg,"[1, 140]",11,debrief,הרוחאמ יל וא רפסמל הנפומ אוה םאה ילש בשקה תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides5.jpg,"[1, 1]",11,degree,1,2,2,0,2
+,[],2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides6.jpg,"[1, 140]",11,faculty,הלכלכ היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides7.jpg,"[1, 3]",11,gpa,98,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides2.jpg,"[1, 1]",11,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides3.jpg,"[1, 2]",11,age,24,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides4.jpg,"[3, 3]",11,sat,652,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides8.jpg,"[1, 1]",11,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides9.jpg,"[1, 1]",11,adhd,2,9,9,0,9
+,[],2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides10.jpg,"[1, 140]",11,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides11.jpg,"[1, 1]",11,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides13.jpg,"[1, 1]",11,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1131,demog_exp,119.988165822,Slides\Slides12.jpg,"[1, 1]",11,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides1.jpg,"[0, 0]",12,intro,,0,0,0,0
+,[],2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides0.jpg,"[1, 140]",12,debrief,רפסמה וא העונתה ןושאר םיספות םישנא המו הרטמב זכרתהלו םייוריגמ םלעתהל םילוכי םישנא םא הסיפתה תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides5.jpg,"[1, 1]",12,degree,1,2,2,0,2
+,[],2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides6.jpg,"[1, 140]",12,faculty,היפוסוליפו היגולוכיספ ספיספ תינכת,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides7.jpg,"[1, 3]",12,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides2.jpg,"[1, 1]",12,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides3.jpg,"[1, 2]",12,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides4.jpg,"[3, 3]",12,sat,634,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides8.jpg,"[1, 1]",12,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides9.jpg,"[1, 1]",12,adhd,2,9,9,0,9
+,[],2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides10.jpg,"[1, 140]",12,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides11.jpg,"[1, 1]",12,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides13.jpg,"[1, 1]",12,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_04_1159,demog_exp,120.038486518,Slides\Slides12.jpg,"[1, 1]",12,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides1.jpg,"[0, 0]",13,intro,,0,0,0,0
+,[],2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides0.jpg,"[1, 140]",13,debrief, זוכיר לש תוערפה שי םא תוארל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides5.jpg,"[1, 1]",13,degree,1,2,2,0,2
+,[],2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides6.jpg,"[1, 140]",13,faculty,דחוימ ךוניחו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides7.jpg,"[1, 3]",13,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides2.jpg,"[1, 1]",13,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides3.jpg,"[1, 2]",13,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides4.jpg,"[3, 3]",13,sat,600,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides8.jpg,"[1, 1]",13,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides9.jpg,"[1, 1]",13,adhd,2,9,9,0,9
+,[],2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides10.jpg,"[1, 140]",13,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides11.jpg,"[1, 1]",13,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides13.jpg,"[1, 1]",13,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1621,demog_exp,119.902317323,Slides\Slides12.jpg,"[1, 1]",13,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides1.jpg,"[0, 0]",14,intro,,0,0,0,0
+,[],2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides0.jpg,"[1, 140]",14,debrief,ךסמה לע םיאורש הממ םלעתהלו המישמל וטנ סחייתהל םילוכי ונחנא םאה קודבל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides5.jpg,"[1, 1]",14,degree,1,2,2,0,2
+,[],2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides6.jpg,"[1, 140]",14,faculty,תונוכמ תסדנה,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides7.jpg,"[1, 3]",14,gpa,81,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides2.jpg,"[1, 1]",14,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides3.jpg,"[1, 2]",14,age,26,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides4.jpg,"[3, 3]",14,sat,689,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides8.jpg,"[1, 1]",14,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides9.jpg,"[1, 1]",14,adhd,2,9,9,0,9
+,[],2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides10.jpg,"[1, 140]",14,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides11.jpg,"[1, 1]",14,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides13.jpg,"[1, 1]",14,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1627,demog_exp,120.256286297,Slides\Slides12.jpg,"[1, 1]",14,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides1.jpg,"[0, 0]",15,intro,,0,0,0,0
+,[],2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides0.jpg,"[1, 140]",15,debrief,םיינוניצח םייוריג תעפשהב זוכיר קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides5.jpg,"[1, 1]",15,degree,1,2,2,0,2
+,[],2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides6.jpg,"[1, 140]",15,faculty,היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides7.jpg,"[1, 3]",15,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides2.jpg,"[1, 1]",15,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides3.jpg,"[1, 2]",15,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides4.jpg,"[3, 3]",15,sat,600,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides8.jpg,"[1, 1]",15,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides9.jpg,"[1, 1]",15,adhd,2,9,9,0,9
+,[],2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides10.jpg,"[1, 140]",15,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides11.jpg,"[1, 1]",15,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides13.jpg,"[1, 1]",15,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1654,demog_exp,120.057200536,Slides\Slides12.jpg,"[1, 1]",15,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides1.jpg,"[0, 0]",16,intro,,0,0,0,0
+,[],2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides0.jpg,"[1, 140]",16,debrief,זיזמ קדבנה עבצא הזיא לע העיפשמ בשחמב תועבצאה תזוזת םא תעדל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides5.jpg,"[1, 1]",16,degree,1,2,2,0,2
+,[],2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides6.jpg,"[1, 140]",16,faculty,םדאה תוחתפתהו ץועיו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides7.jpg,"[1, 3]",16,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides2.jpg,"[1, 1]",16,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides3.jpg,"[1, 2]",16,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides4.jpg,"[3, 3]",16,sat,637,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides8.jpg,"[1, 1]",16,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides9.jpg,"[1, 1]",16,adhd,2,9,9,0,9
+,[],2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides10.jpg,"[1, 140]",16,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides11.jpg,"[1, 1]",16,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides13.jpg,"[1, 1]",16,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1712,demog_exp,119.970400353,Slides\Slides12.jpg,"[1, 1]",16,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides1.jpg,"[0, 0]",17,intro,,0,0,0,0
+,[],2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides0.jpg,"[1, 140]",17,debrief,היפ לע לועפל יל תומרוגו יתעד תא תוחיסמ דיה לש תושקהה םא זוכיר קודבל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides5.jpg,"[1, 1]",17,degree,1,2,2,0,2
+,[],2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides6.jpg,"[1, 140]",17,faculty,םיטפשמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides7.jpg,"[1, 3]",17,gpa,88,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides2.jpg,"[1, 1]",17,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides3.jpg,"[1, 2]",17,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides4.jpg,"[3, 3]",17,sat,646,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides8.jpg,"[1, 1]",17,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides9.jpg,"[1, 1]",17,adhd,2,9,9,0,9
+,[],2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides10.jpg,"[1, 140]",17,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides11.jpg,"[1, 1]",17,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides13.jpg,"[1, 1]",17,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1715,demog_exp,120.001966413,Slides\Slides12.jpg,"[1, 1]",17,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides1.jpg,"[0, 0]",18,intro,,0,0,0,0
+,[],2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides0.jpg,"[1, 140]",18,debrief, ונלש תוטלחהה לע עקרב םיאור ונחנאש תונומתה תעפשה איה המ קודבל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides5.jpg,"[1, 1]",18,degree,1,2,2,0,2
+,[],2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides6.jpg,"[1, 140]",18,faculty,הקיטסיטטסו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides7.jpg,"[1, 3]",18,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides2.jpg,"[1, 1]",18,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides3.jpg,"[1, 2]",18,age,18,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides4.jpg,"[3, 3]",18,sat,603,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides8.jpg,"[1, 1]",18,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides9.jpg,"[1, 1]",18,adhd,2,9,9,0,9
+,[],2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides10.jpg,"[1, 140]",18,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides11.jpg,"[1, 1]",18,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides13.jpg,"[1, 1]",18,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1756,demog_exp,120.084390836,Slides\Slides12.jpg,"[1, 1]",18,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides1.jpg,"[0, 0]",19,intro,,0,0,0,0
+,[],2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides0.jpg,"[1, 140]",19,debrief,זוכירו היצאנידרוק תקידב,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides5.jpg,"[1, 1]",19,degree,1,2,2,0,2
+,[],2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides6.jpg,"[1, 140]",19,faculty,תונמאה תודלותו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides7.jpg,"[1, 3]",19,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides2.jpg,"[1, 1]",19,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides3.jpg,"[1, 2]",19,age,22,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides4.jpg,"[3, 3]",19,sat,687,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides8.jpg,"[1, 1]",19,dominant_hand,2,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides9.jpg,"[1, 1]",19,adhd,2,9,9,0,9
+,[],2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides10.jpg,"[1, 140]",19,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides11.jpg,"[1, 1]",19,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides13.jpg,"[1, 1]",19,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1819,demog_exp,119.934774045,Slides\Slides12.jpg,"[1, 1]",19,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides1.jpg,"[0, 0]",21,intro,,0,0,0,0
+,[],2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides0.jpg,"[1, 140]",21,debrief,קוידה תמר תקידב ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides5.jpg,"[1, 1]",21,degree,1,2,2,0,2
+,[],2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides6.jpg,"[1, 140]",21,faculty,תיעדמ הניכמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides7.jpg,"[1, 3]",21,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides2.jpg,"[1, 1]",21,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides3.jpg,"[1, 2]",21,age,18,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides4.jpg,"[3, 3]",21,sat,580,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides8.jpg,"[1, 1]",21,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides9.jpg,"[1, 1]",21,adhd,2,9,9,0,9
+,[],2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides10.jpg,"[1, 140]",21,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides11.jpg,"[1, 1]",21,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides13.jpg,"[1, 1]",21,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1849,demog_exp,120.022450587,Slides\Slides12.jpg,"[1, 1]",21,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides1.jpg,"[0, 0]",22,intro,,0,0,0,0
+,[],2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides0.jpg,"[1, 140]",22,debrief, ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides5.jpg,"[1, 1]",22,degree,1,2,2,0,2
+,[],2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides6.jpg,"[1, 140]",22,faculty,  ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides7.jpg,"[1, 3]",22,gpa,20,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides2.jpg,"[1, 1]",22,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides3.jpg,"[1, 2]",22,age,18,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides4.jpg,"[3, 3]",22,sat,681,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides8.jpg,"[1, 1]",22,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides9.jpg,"[1, 1]",22,adhd,2,9,9,0,9
+,[],2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides10.jpg,"[1, 140]",22,lang, ,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides11.jpg,"[1, 1]",22,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides13.jpg,"[1, 1]",22,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1900,demog_exp,119.742069965,Slides\Slides12.jpg,"[1, 1]",22,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides1.jpg,"[0, 0]",23,intro,,0,0,0,0
+,[],2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides0.jpg,"[1, 140]",23,debrief, היארה ןיבל עבצה לע הציחלה ןיב תלוכיה תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides5.jpg,"[1, 1]",23,degree,1,2,2,0,2
+,[],2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides6.jpg,"[1, 140]",23,faculty,תילאיצוס הדובע,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides7.jpg,"[1, 3]",23,gpa,95,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides2.jpg,"[1, 1]",23,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides3.jpg,"[1, 2]",23,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides4.jpg,"[3, 3]",23,sat,640,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides8.jpg,"[1, 1]",23,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides9.jpg,"[1, 1]",23,adhd,2,9,9,0,9
+,[],2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides10.jpg,"[1, 140]",23,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides11.jpg,"[1, 1]",23,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides13.jpg,"[1, 1]",23,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1917,demog_exp,119.872988006,Slides\Slides12.jpg,"[1, 1]",23,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides1.jpg,"[0, 0]",24,intro,,0,0,0,0
+,[],2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides0.jpg,"[1, 140]",24,debrief,הז לע תולעל יתחלצה אל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides5.jpg,"[1, 1]",24,degree,1,2,2,0,2
+,[],2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides6.jpg,"[1, 140]",24,faculty,תיתאוושהו תירבע תורפס,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides7.jpg,"[1, 3]",24,gpa,85,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides2.jpg,"[1, 1]",24,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides3.jpg,"[1, 2]",24,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides4.jpg,"[3, 3]",24,sat,570,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides8.jpg,"[1, 1]",24,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides9.jpg,"[1, 1]",24,adhd,2,9,9,0,9
+,[],2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides10.jpg,"[1, 140]",24,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides11.jpg,"[1, 1]",24,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides13.jpg,"[1, 1]",24,color_blind,2,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1918,demog_exp,119.981081284,Slides\Slides12.jpg,"[1, 1]",24,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides1.jpg,"[0, 0]",25,intro,,0,0,0,0
+,[],2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides0.jpg,"[1, 140]",25,debrief,עיפומש המ לע לגרתמ שיאה םאה קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides5.jpg,"[1, 1]",25,degree,1,2,2,0,2
+,[],2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides6.jpg,"[1, 140]",25,faculty,תרושקתב תוערפה,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides7.jpg,"[1, 3]",25,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides2.jpg,"[1, 1]",25,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides3.jpg,"[1, 2]",25,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides4.jpg,"[3, 3]",25,sat,718,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides8.jpg,"[1, 1]",25,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides9.jpg,"[1, 1]",25,adhd,2,9,9,0,9
+,[],2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides10.jpg,"[1, 140]",25,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides11.jpg,"[1, 1]",25,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides13.jpg,"[1, 1]",25,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1947,demog_exp,119.824137628,Slides\Slides12.jpg,"[1, 1]",25,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides1.jpg,"[0, 0]",26,intro,,0,0,0,0
+,[],2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides0.jpg,"[1, 140]",26,debrief,ונלש עבצאה תמרה עוציב לע העיפשמ תועבצאה תנומת ךיא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides5.jpg,"[1, 1]",26,degree,1,2,2,0,2
+,[],2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides6.jpg,"[1, 140]",26,faculty,תרושקתב תוערפה,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides7.jpg,"[1, 3]",26,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides2.jpg,"[1, 1]",26,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides3.jpg,"[1, 2]",26,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides4.jpg,"[3, 3]",26,sat,711,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides8.jpg,"[1, 1]",26,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides9.jpg,"[1, 1]",26,adhd,2,9,9,0,9
+,[],2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides10.jpg,"[1, 140]",26,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides11.jpg,"[1, 1]",26,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides13.jpg,"[1, 1]",26,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_05_1952,demog_exp,120.004229769,Slides\Slides12.jpg,"[1, 1]",26,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides1.jpg,"[0, 0]",27,intro,,0,0,0,0
+,[],2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides0.jpg,"[1, 140]",27,debrief,תוטיסמה תעדה תוחסה תורמל תושירדב הדימע תלוכי קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides5.jpg,"[1, 1]",27,degree,1,2,2,0,2
+,[],2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides6.jpg,"[1, 140]",27,faculty,תילגנאו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides7.jpg,"[1, 3]",27,gpa,100,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides2.jpg,"[1, 1]",27,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides3.jpg,"[1, 2]",27,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides4.jpg,"[3, 3]",27,sat,684,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides8.jpg,"[1, 1]",27,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides9.jpg,"[1, 1]",27,adhd,2,9,9,0,9
+,[],2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides10.jpg,"[1, 140]",27,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides11.jpg,"[1, 1]",27,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides13.jpg,"[1, 1]",27,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_06_1516,demog_exp,120.864336833,Slides\Slides12.jpg,"[1, 1]",27,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides1.jpg,"[0, 0]",28,intro,,0,0,0,0
+,[],2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides0.jpg,"[1, 140]",28,debrief,תעדוי אל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides5.jpg,"[1, 1]",28,degree,1,2,2,0,2
+,[],2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides6.jpg,"[1, 140]",28,faculty,הארוהו הקיטמתמ יגוח וד,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides7.jpg,"[1, 3]",28,gpa,88,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides2.jpg,"[1, 1]",28,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides3.jpg,"[1, 2]",28,age,25,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides4.jpg,"[3, 3]",28,sat,560,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides8.jpg,"[1, 1]",28,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides9.jpg,"[1, 1]",28,adhd,2,9,9,0,9
+,[],2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides10.jpg,"[1, 140]",28,lang,תיתפרצ,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides11.jpg,"[1, 1]",28,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides13.jpg,"[1, 1]",28,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1012,demog_exp,119.997996535,Slides\Slides12.jpg,"[1, 1]",28,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides1.jpg,"[0, 0]",29,intro,,0,0,0,0
+,[],2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides0.jpg,"[1, 140]",29,debrief,ףוגה לע חומה תטילש,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides5.jpg,"[1, 1]",29,degree,1,2,2,0,2
+,[],2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides6.jpg,"[1, 140]",29,faculty,הריצי תונמוא ו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides7.jpg,"[1, 3]",29,gpa,80,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides2.jpg,"[1, 1]",29,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides3.jpg,"[1, 2]",29,age,21,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides4.jpg,"[3, 3]",29,sat,620,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides8.jpg,"[1, 1]",29,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides9.jpg,"[1, 1]",29,adhd,2,9,9,0,9
+,[],2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides10.jpg,"[1, 140]",29,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides11.jpg,"[1, 1]",29,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides13.jpg,"[1, 1]",29,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1021,demog_exp,119.955235326,Slides\Slides12.jpg,"[1, 1]",29,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides1.jpg,"[0, 0]",30,intro,,0,0,0,0
+,[],2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides0.jpg,"[1, 140]",30,debrief,ןוכנה שקמה לע תצחול ינאש דעו רפסמה תא האור ינא רשאכ ילש תוריהמה תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides5.jpg,"[1, 1]",30,degree,1,2,2,0,2
+,[],2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides6.jpg,"[1, 140]",30,faculty,תרושקת,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides7.jpg,"[1, 3]",30,gpa,83,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides2.jpg,"[1, 1]",30,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides3.jpg,"[1, 2]",30,age,25,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides4.jpg,"[3, 3]",30,sat,400,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides8.jpg,"[1, 1]",30,dominant_hand,2,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides9.jpg,"[1, 1]",30,adhd,2,9,9,0,9
+,[],2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides10.jpg,"[1, 140]",30,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides11.jpg,"[1, 1]",30,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides13.jpg,"[1, 1]",30,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1037,demog_exp,120.040751169,Slides\Slides12.jpg,"[1, 1]",30,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides1.jpg,"[0, 0]",31,intro,,0,0,0,0
+,[],2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides0.jpg,"[1, 140]",31,debrief,תיביטיאוטניא תינבתל דוגינב םה םא םג ןמצע לע תורזוחש תוינבת רשקמ ינא םא תוארל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides5.jpg,"[1, 1]",31,degree,1,2,2,0,2
+,[],2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides6.jpg,"[1, 140]",31,faculty,בשחמה יעדמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides7.jpg,"[1, 3]",31,gpa,75,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides2.jpg,"[1, 1]",31,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides3.jpg,"[1, 2]",31,age,18,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides4.jpg,"[3, 3]",31,sat,586,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides8.jpg,"[1, 1]",31,dominant_hand,2,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides9.jpg,"[1, 1]",31,adhd,2,9,9,0,9
+,[],2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides10.jpg,"[1, 140]",31,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides11.jpg,"[1, 1]",31,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides13.jpg,"[1, 1]",31,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1046,demog_exp,119.969918299,Slides\Slides12.jpg,"[1, 1]",31,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides1.jpg,"[0, 0]",32,intro,,0,0,0,0
+,[],2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides0.jpg,"[1, 140]",32,debrief,תואיצמה תא תמאות הניאש תויקוח תריכז לש תיביטנגוק תלוכי ןיב ןיחבהל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides5.jpg,"[1, 1]",32,degree,1,2,2,0,2
+,[],2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides6.jpg,"[1, 140]",32,faculty,היפרתויזיפל גוחה,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides7.jpg,"[1, 3]",32,gpa,83,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides2.jpg,"[1, 1]",32,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides3.jpg,"[1, 2]",32,age,22,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides4.jpg,"[3, 3]",32,sat,711,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides8.jpg,"[1, 1]",32,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides9.jpg,"[1, 1]",32,adhd,2,9,9,0,9
+,[],2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides10.jpg,"[1, 140]",32,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides11.jpg,"[1, 1]",32,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides13.jpg,"[1, 1]",32,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1110,demog_exp,120.168751563,Slides\Slides12.jpg,"[1, 1]",32,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides1.jpg,"[0, 0]",33,intro,,0,0,0,0
+,[],2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides0.jpg,"[1, 140]",33,debrief,בשק,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides5.jpg,"[1, 1]",33,degree,1,2,2,0,2
+,[],2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides6.jpg,"[1, 140]",33,faculty,ספיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides7.jpg,"[1, 3]",33,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides2.jpg,"[1, 1]",33,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides3.jpg,"[1, 2]",33,age,24,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides4.jpg,"[3, 3]",33,sat,712,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides8.jpg,"[1, 1]",33,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides9.jpg,"[1, 1]",33,adhd,1,9,9,0,9
+,[],2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides10.jpg,"[1, 140]",33,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides11.jpg,"[1, 1]",33,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides13.jpg,"[1, 1]",33,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1129,demog_exp,119.944558996,Slides\Slides12.jpg,"[1, 1]",33,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides1.jpg,"[0, 0]",34,intro,,0,0,0,0
+,[],2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides0.jpg,"[1, 140]",34,debrief,תורחא תולועפב היפצ וא םירפסמה תאירק .ונלש תובוגתו תולועפ לע רתוי עיפשמ המ קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides5.jpg,"[1, 1]",34,degree,1,2,2,0,2
+,[],2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides6.jpg,"[1, 140]",34,faculty,היפוסוליפ היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides7.jpg,"[1, 3]",34,gpa,100,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides2.jpg,"[1, 1]",34,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides3.jpg,"[1, 2]",34,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides4.jpg,"[3, 3]",34,sat,650,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides8.jpg,"[1, 1]",34,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides9.jpg,"[1, 1]",34,adhd,2,9,9,0,9
+,[],2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides10.jpg,"[1, 140]",34,lang,תיסור,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides11.jpg,"[1, 1]",34,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides13.jpg,"[1, 1]",34,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1133,demog_exp,119.979301052,Slides\Slides12.jpg,"[1, 1]",34,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides1.jpg,"[0, 0]",35,intro,,0,0,0,0
+,[],2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides0.jpg,"[1, 140]",35,debrief,תונריע תקידב ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides5.jpg,"[1, 1]",35,degree,0,2,2,0,2
+,[],2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides6.jpg,"[1, 140]",35,faculty,ןובשח תייאר תרגוב,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides7.jpg,"[1, 3]",35,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides2.jpg,"[1, 1]",35,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides3.jpg,"[1, 2]",35,age,41,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides4.jpg,"[3, 3]",35,sat,585,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides8.jpg,"[1, 1]",35,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides9.jpg,"[1, 1]",35,adhd,2,9,9,0,9
+,[],2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides10.jpg,"[1, 140]",35,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides11.jpg,"[1, 1]",35,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides13.jpg,"[1, 1]",35,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1155,demog_exp,119.985940278,Slides\Slides12.jpg,"[1, 1]",35,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides1.jpg,"[0, 0]",36,intro,,0,0,0,0
+,[],2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides0.jpg,"[1, 140]",36,debrief,ונלש הבוגתה לע תועיפשמ הנומתבש תועבצאה תועונתו םיעיפומ םירפסמה ובש דצה םא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides5.jpg,"[1, 1]",36,degree,1,2,2,0,2
+,[],2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides6.jpg,"[1, 140]",36,faculty,הביבס ידומילו היפרגואיג,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides7.jpg,"[1, 3]",36,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides2.jpg,"[1, 1]",36,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides3.jpg,"[1, 2]",36,age,26,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides4.jpg,"[3, 3]",36,sat,501,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides8.jpg,"[1, 1]",36,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides9.jpg,"[1, 1]",36,adhd,2,9,9,0,9
+,[],2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides10.jpg,"[1, 140]",36,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides11.jpg,"[1, 1]",36,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides13.jpg,"[1, 1]",36,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1201,demog_exp,119.918802933,Slides\Slides12.jpg,"[1, 1]",36,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides1.jpg,"[0, 0]",37,intro,,0,0,0,0
+,[],2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides0.jpg,"[1, 140]",37,debrief,רפסמל הנומת ןיב הדרפה ץתלוכי קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides5.jpg,"[1, 1]",37,degree,1,2,2,0,2
+,[],2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides6.jpg,"[1, 140]",37,faculty,היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides7.jpg,"[1, 3]",37,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides2.jpg,"[1, 1]",37,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides3.jpg,"[1, 2]",37,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides4.jpg,"[3, 3]",37,sat,650,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides8.jpg,"[1, 1]",37,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides9.jpg,"[1, 1]",37,adhd,2,9,9,0,9
+,[],2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides10.jpg,"[1, 140]",37,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides11.jpg,"[1, 1]",37,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides13.jpg,"[1, 1]",37,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1245,demog_exp,119.809971124,Slides\Slides12.jpg,"[1, 1]",37,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides1.jpg,"[0, 0]",38,intro,,0,0,0,0
+,[],2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides0.jpg,"[1, 140]",38,debrief,ונביבס םייתעונת םייוריגמ תעפשומ זכרתהל ונלש תלוכיה דציכ קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides5.jpg,"[1, 1]",38,degree,1,2,2,0,2
+,[],2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides6.jpg,"[1, 140]",38,faculty,דועיסל גוחה,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides7.jpg,"[1, 3]",38,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides2.jpg,"[1, 1]",38,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides3.jpg,"[1, 2]",38,age,24,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides4.jpg,"[3, 3]",38,sat,580,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides8.jpg,"[1, 1]",38,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides9.jpg,"[1, 1]",38,adhd,2,9,9,0,9
+,[],2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides10.jpg,"[1, 140]",38,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides11.jpg,"[1, 1]",38,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides13.jpg,"[1, 1]",38,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1317,demog_exp,120.005120164,Slides\Slides12.jpg,"[1, 1]",38,credit_or_payment,2,13,13,0,13
+,['return'],2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides1.jpg,"[0, 0]",39,intro,,0,0,0,0
+,[],2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides0.jpg,"[1, 140]",39,debrief,לבלבמ םרוג שישכ המישמ עוציבב החלצה קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides5.jpg,"[1, 1]",39,degree,1,2,2,0,2
+,[],2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides6.jpg,"[1, 140]",39,faculty,תורפסו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides7.jpg,"[1, 3]",39,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides2.jpg,"[1, 1]",39,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides3.jpg,"[1, 2]",39,age,26,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides4.jpg,"[3, 3]",39,sat,638,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides8.jpg,"[1, 1]",39,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides9.jpg,"[1, 1]",39,adhd,2,9,9,0,9
+,[],2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides10.jpg,"[1, 140]",39,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides11.jpg,"[1, 1]",39,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides13.jpg,"[1, 1]",39,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1338,demog_exp,120.064331322,Slides\Slides12.jpg,"[1, 1]",39,credit_or_payment,1,13,13,0,13
+,['return'],2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides1.jpg,"[0, 0]",40,intro,,0,0,0,0
+,[],2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides0.jpg,"[1, 140]",40,debrief,רפסמל םאתהב ץוחלל ןייסנה תבוגת לע הב תיארנה תועבצאה תזזהו הנומתה תעפשה תא ןוחבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides5.jpg,"[1, 1]",40,degree,1,2,2,0,2
+,[],2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides6.jpg,"[1, 140]",40,faculty,ןוכית חרזמו הלכלכ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides7.jpg,"[1, 3]",40,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides2.jpg,"[1, 1]",40,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides3.jpg,"[1, 2]",40,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides4.jpg,"[3, 3]",40,sat,737,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides8.jpg,"[1, 1]",40,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides9.jpg,"[1, 1]",40,adhd,2,9,9,0,9
+,[],2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides10.jpg,"[1, 140]",40,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides11.jpg,"[1, 1]",40,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides13.jpg,"[1, 1]",40,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Dec_11_1344,demog_exp,120.028723386,Slides\Slides12.jpg,"[1, 1]",40,credit_or_payment,2,13,13,0,13
+,['return'],2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides1.jpg,"[0, 0]",1,intro,,0,0,0,0
+,[],2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides0.jpg,"[1, 140]",1,debrief,גצומש המל רפסמה ןיב םילבלבמ אלשו זוכיר קודבל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides5.jpg,"[1, 1]",1,degree,1,2,2,0,2
+,[],2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides6.jpg,"[1, 140]",1,faculty,ואנובשח הלכלכ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides7.jpg,"[1, 3]",1,gpa,83,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides2.jpg,"[1, 1]",1,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides3.jpg,"[1, 2]",1,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides4.jpg,"[3, 3]",1,sat,650,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides8.jpg,"[1, 1]",1,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides9.jpg,"[1, 1]",1,adhd,2,9,9,0,9
+,[],2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides10.jpg,"[1, 140]",1,lang,ירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides11.jpg,"[1, 1]",1,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides13.jpg,"[1, 1]",1,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2018_Nov_27_1207,demog_exp,119.997106162,Slides\Slides12.jpg,"[1, 1]",1,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides1.jpg,"[0, 0]",41,intro,,0,0,0,0
+,[],2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides0.jpg,"[1, 140]",41,debrief,תעד תוחסהמ ענמהל חילצמ ינא םא תוארל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides5.jpg,"[1, 1]",41,degree,1,2,2,0,2
+,[],2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides6.jpg,"[1, 140]",41,faculty,היגולויצוס,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides7.jpg,"[1, 3]",41,gpa,80,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides2.jpg,"[1, 1]",41,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides3.jpg,"[1, 2]",41,age,25,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides4.jpg,"[3, 3]",41,sat,650,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides8.jpg,"[1, 1]",41,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides9.jpg,"[1, 1]",41,adhd,2,9,9,0,9
+,[],2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides10.jpg,"[1, 140]",41,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides11.jpg,"[1, 1]",41,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides13.jpg,"[1, 1]",41,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1258,demog_exp,119.948374301,Slides\Slides12.jpg,"[1, 1]",41,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_21_1709,demog_exp,119.9713988,Slides\Slides1.jpg,"[0, 0]",42,intro,,0,0,0,0
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.9713988,Slides\Slides5.jpg,"[1, 1]",42,degree,1,1,1,0,1
+,[],2020_Jan_21_1711,demog_exp,119.9713988,Slides\Slides6.jpg,"[1, 140]",42,faculty,היגולויצוסו שונא יתוריש,2,2,0,2
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1712,demog_exp,119.9713988,Slides\Slides7.jpg,"[1, 3]",42,gpa,0,3,3,0,3
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1713,demog_exp,119.9713988,Slides\Slides2.jpg,"[1, 1]",42,sex,2,4,4,0,4
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1714,demog_exp,119.9713988,Slides\Slides3.jpg,"[1, 2]",42,age,24,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1715,demog_exp,119.9713988,Slides\Slides4.jpg,"[3, 3]",42,sat,513,6,6,0,6
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1716,demog_exp,119.9713988,Slides\Slides8.jpg,"[1, 1]",42,dominant_hand,1,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1717,demog_exp,119.9713988,Slides\Slides9.jpg,"[1, 1]",42,adhd,2,8,8,0,8
+,[],2020_Jan_21_1718,demog_exp,119.9713988,Slides\Slides10.jpg,"[1, 140]",42,lang,תירבע,9,9,0,9
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_21_1719,demog_exp,119.9713988,Slides\Slides11.jpg,"[1, 1]",42,sight,1,10,10,0,10
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1720,demog_exp,119.9713988,Slides\Slides13.jpg,"[1, 1]",42,color_blind,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1721,demog_exp,119.9713988,Slides\Slides12.jpg,"[1, 1]",42,credit_or_payment,2,12,12,0,12
+,['return'],2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides1.jpg,"[0, 0]",41,intro,,0,0,0,0
+,[],2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides0.jpg,"[1, 140]",41,debrief, תויבקע קודבל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides5.jpg,"[1, 1]",41,degree,1,2,2,0,2
+,[],2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides6.jpg,"[1, 140]",41,faculty,שונא יתוריש היגולויצוס,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides7.jpg,"[1, 3]",41,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides2.jpg,"[1, 1]",41,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides3.jpg,"[1, 2]",41,age,24,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides4.jpg,"[3, 3]",41,sat,513,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides8.jpg,"[1, 1]",41,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides9.jpg,"[1, 1]",41,adhd,2,9,9,0,9
+,[],2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides10.jpg,"[1, 140]",41,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides11.jpg,"[1, 1]",41,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides13.jpg,"[1, 1]",41,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_21_1710,demog_exp,119.984210014,Slides\Slides12.jpg,"[1, 1]",41,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides1.jpg,"[0, 0]",43,intro,,0,0,0,0
+,[],2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides0.jpg,"[1, 140]",43,debrief,זוכירה תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides5.jpg,"[1, 1]",43,degree,1,2,2,0,2
+,[],2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides6.jpg,"[1, 140]",43,faculty,הנידמה יעדמו שונא יתוריש,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides7.jpg,"[1, 3]",43,gpa,75,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides2.jpg,"[1, 1]",43,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides3.jpg,"[1, 2]",43,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides4.jpg,"[3, 3]",43,sat,440,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides8.jpg,"[1, 1]",43,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides9.jpg,"[1, 1]",43,adhd,1,9,9,0,9
+,[],2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides10.jpg,"[1, 140]",43,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides11.jpg,"[1, 1]",43,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides13.jpg,"[1, 1]",43,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1429,demog_exp,119.895163596,Slides\Slides12.jpg,"[1, 1]",43,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides1.jpg,"[0, 0]",43,intro,,0,0,0,0
+,[],2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides0.jpg,"[1, 140]",43,debrief,ילש דיה תעונת לע העיפשמ הנומתב דיה תעונת םאה קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides5.jpg,"[1, 1]",43,degree,1,2,2,0,2
+,[],2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides6.jpg,"[1, 140]",43,faculty,שונא יתורישו היגולויצוס,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides7.jpg,"[1, 3]",43,gpa,95,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides2.jpg,"[1, 1]",43,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides3.jpg,"[1, 2]",43,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides4.jpg,"[3, 3]",43,sat,640,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides8.jpg,"[1, 1]",43,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides9.jpg,"[1, 1]",43,adhd,2,9,9,0,9
+,[],2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides10.jpg,"[1, 140]",43,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides11.jpg,"[1, 1]",43,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides13.jpg,"[1, 1]",43,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_1838,demog_exp,119.98579363,Slides\Slides12.jpg,"[1, 1]",43,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides1.jpg,"[0, 0]",44,intro,,0,0,0,0
+,[],2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides0.jpg,"[1, 140]",44,debrief,הייארהמ טלוק חומהש המל יזיפ דוקפת ןיב רושיק,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides5.jpg,"[1, 1]",44,degree,1,2,2,0,2
+,[],2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides6.jpg,"[1, 140]",44,faculty,םדאה תוחתפתהו ץועייו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides7.jpg,"[1, 3]",44,gpa,85,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides2.jpg,"[1, 1]",44,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides3.jpg,"[1, 2]",44,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides4.jpg,"[3, 3]",44,sat,446,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides8.jpg,"[1, 1]",44,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides9.jpg,"[1, 1]",44,adhd,2,9,9,0,9
+,[],2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides10.jpg,"[1, 140]",44,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides11.jpg,"[1, 1]",44,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides13.jpg,"[1, 1]",44,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_22_2001,demog_exp,119.819312412,Slides\Slides12.jpg,"[1, 1]",44,credit_or_payment,1,13,13,0,13
+,['return'],2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides1.jpg,"[0, 0]",45,intro,,0,0,0,0
+,[],2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides0.jpg,"[1, 140]",45,debrief,המישמל תועמשמ אלל ןמז ךרואל קדבנה תלוכי תא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides5.jpg,"[1, 1]",45,degree,1,2,2,0,2
+,[],2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides6.jpg,"[1, 140]",45,faculty,הנידמה יעדמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides7.jpg,"[1, 3]",45,gpa,87,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides2.jpg,"[1, 1]",45,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides3.jpg,"[1, 2]",45,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides4.jpg,"[3, 3]",45,sat,000,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides8.jpg,"[1, 1]",45,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides9.jpg,"[1, 1]",45,adhd,2,9,9,0,9
+,[],2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides10.jpg,"[1, 140]",45,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides11.jpg,"[1, 1]",45,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides13.jpg,"[1, 1]",45,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_23_1357,demog_exp,120.013873598,Slides\Slides12.jpg,"[1, 1]",45,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_27_1302,demog_exp,None,Slides\Slides1.jpg,"[0, 0]",46,intro,,0,0,0,0
+,[],2020_Jan_27_1302,demog_exp,None,Slides\Slides0.jpg,"[1, 140]",46,debrief,ונמצעב םיטלוש ונחנא המכ דעותושעל םיכירצ ונחנאש המ לע םיאור ונחנאש המ עיפשמ ךיא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides5.jpg,"[1, 1]",46,degree,1,2,2,0,2
+,[],2020_Jan_27_1302,demog_exp,None,Slides\Slides6.jpg,"[1, 140]",46,faculty,היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides7.jpg,"[1, 3]",46,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides2.jpg,"[1, 1]",46,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides3.jpg,"[1, 2]",46,age,29,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides4.jpg,"[3, 3]",46,sat,603,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides8.jpg,"[1, 1]",46,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides9.jpg,"[1, 1]",46,adhd,2,9,9,0,9
+,[],2020_Jan_27_1302,demog_exp,None,Slides\Slides10.jpg,"[1, 140]",46,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides11.jpg,"[1, 1]",46,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides13.jpg,"[1, 1]",46,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_1302,demog_exp,None,Slides\Slides12.jpg,"[1, 1]",46,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides1.jpg,"[0, 0]",47,intro,,0,0,0,0
+,[],2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides0.jpg,"[1, 140]",47,debrief,עדוי אל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides5.jpg,"[1, 1]",47,degree,1,2,2,0,2
+,[],2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides6.jpg,"[1, 140]",47,faculty,בשחמה יעדמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides7.jpg,"[1, 3]",47,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides2.jpg,"[1, 1]",47,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides3.jpg,"[1, 2]",47,age,26,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides4.jpg,"[3, 3]",47,sat,702,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides8.jpg,"[1, 1]",47,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides9.jpg,"[1, 1]",47,adhd,2,9,9,0,9
+,[],2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides10.jpg,"[1, 140]",47,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides11.jpg,"[1, 1]",47,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides13.jpg,"[1, 1]",47,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_27_2007,demog_exp,120.116224456,Slides\Slides12.jpg,"[1, 1]",47,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides1.jpg,"[0, 0]",48,intro,,0,0,0,0
+,[],2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides0.jpg,"[1, 140]",48,debrief,ילרטינ יאנת תמועלו םימאות אל םיאנת תמועל ןוטרסב הארנש המ ןיבל םינושה םירפסמה יפל תעבקנש קדבנל תנתינש הארוהה ןיב םימאות םיאנת לש העפשה קודבל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides5.jpg,"[1, 1]",48,degree,1,2,2,0,2
+,[],2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides6.jpg,"[1, 140]",48,faculty,היגולוכיספ היגולויב,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides7.jpg,"[1, 3]",48,gpa,89,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides2.jpg,"[1, 1]",48,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides3.jpg,"[1, 2]",48,age,25,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides4.jpg,"[3, 3]",48,sat,807,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides8.jpg,"[1, 1]",48,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides9.jpg,"[1, 1]",48,adhd,2,9,9,0,9
+,[],2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides10.jpg,"[1, 140]",48,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides11.jpg,"[1, 1]",48,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides13.jpg,"[1, 1]",48,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1355,demog_exp,119.996448134,Slides\Slides12.jpg,"[1, 1]",48,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides1.jpg,"[0, 0]",49,intro,,0,0,0,0
+,[],2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides0.jpg,"[1, 140]",49,debrief,המרה אלל האוושהב הכופהה עבצאה תא םירמש יאנת ןיבל הנוכנה עצמאה תא םירמ רמולכ ןוכנה ךלהמה תא הארמש יאנת ןיב הבוגת ינמזב םילדבה קוד בל ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides5.jpg,"[1, 1]",49,degree,1,2,2,0,2
+,[],2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides6.jpg,"[1, 140]",49,faculty,היגולוכיספ היגולויב,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides7.jpg,"[1, 3]",49,gpa,88,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides2.jpg,"[1, 1]",49,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides3.jpg,"[1, 2]",49,age,25,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides4.jpg,"[3, 3]",49,sat,690,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides8.jpg,"[1, 1]",49,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides9.jpg,"[1, 1]",49,adhd,2,9,9,0,9
+,[],2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides10.jpg,"[1, 140]",49,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides11.jpg,"[1, 1]",49,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides13.jpg,"[1, 1]",49,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1358,demog_exp,120.017906696,Slides\Slides12.jpg,"[1, 1]",49,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides1.jpg,"[0, 0]",50,intro,,0,0,0,0
+,[],2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides0.jpg,"[1, 140]",50,debrief, ץרש ןוטרס םתס הז בשחמה לש תובוגתל הרוצ םושב תורושק אל תוציחלהש בל יתמש םא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides5.jpg,"[1, 1]",50,degree,2,2,2,0,2
+,[],2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides6.jpg,"[1, 140]",50,faculty,האוש ידומיל,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides7.jpg,"[1, 3]",50,gpa,89,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides2.jpg,"[1, 1]",50,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides3.jpg,"[1, 2]",50,age,26,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides4.jpg,"[3, 3]",50,sat,000,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides8.jpg,"[1, 1]",50,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides9.jpg,"[1, 1]",50,adhd,2,9,9,0,9
+,[],2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides10.jpg,"[1, 140]",50,lang, תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides11.jpg,"[1, 1]",50,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides13.jpg,"[1, 1]",50,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1422,demog_exp,120.192452165,Slides\Slides12.jpg,"[1, 1]",50,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides1.jpg,"[0, 0]",51,intro,,0,0,0,0
+,[],2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides0.jpg,"[1, 140]",51,debrief,ברעתמ יוריג תואצמיהב הבוגתה תקידב,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides5.jpg,"[1, 1]",51,degree,1,2,2,0,2
+,[],2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides6.jpg,"[1, 140]",51,faculty,םוי תניכמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides7.jpg,"[1, 3]",51,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides2.jpg,"[1, 1]",51,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides3.jpg,"[1, 2]",51,age,22,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides4.jpg,"[3, 3]",51,sat,000,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides8.jpg,"[1, 1]",51,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides9.jpg,"[1, 1]",51,adhd,1,9,9,0,9
+,[],2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides10.jpg,"[1, 140]",51,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides11.jpg,"[1, 1]",51,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides13.jpg,"[1, 1]",51,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1428,demog_exp,120.040093417,Slides\Slides12.jpg,"[1, 1]",51,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides1.jpg,"[0, 0]",52,intro,,0,0,0,0
+,[],2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides0.jpg,"[1, 140]",52,debrief,תויוגש תובושת ןיבל אווש ילאוזיו גצמ ןיב רשק שי םא קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides5.jpg,"[1, 1]",52,degree,2,2,2,0,2
+,[],2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides6.jpg,"[1, 140]",52,faculty,יתמייס היגולוכיספל גוחה,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides7.jpg,"[1, 3]",52,gpa,092,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides2.jpg,"[1, 1]",52,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides3.jpg,"[1, 2]",52,age,37,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides4.jpg,"[3, 3]",52,sat,612,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides8.jpg,"[1, 1]",52,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides9.jpg,"[1, 1]",52,adhd,2,9,9,0,9
+,[],2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides10.jpg,"[1, 140]",52,lang,תירבעו,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides11.jpg,"[1, 1]",52,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides13.jpg,"[1, 1]",52,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1506,demog_exp,119.676490486,Slides\Slides12.jpg,"[1, 1]",52,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides1.jpg,"[0, 0]",53,intro,,0,0,0,0
+,[],2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides0.jpg,"[1, 140]",53,debrief,הבוגת תוריהמ,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides5.jpg,"[1, 1]",53,degree,1,2,2,0,2
+,[],2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides6.jpg,"[1, 140]",53,faculty,היסא ידומילו שונא יתוריש,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides7.jpg,"[1, 3]",53,gpa,75,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides2.jpg,"[1, 1]",53,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides3.jpg,"[1, 2]",53,age,26,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides4.jpg,"[3, 3]",53,sat,565,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides8.jpg,"[1, 1]",53,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides9.jpg,"[1, 1]",53,adhd,2,9,9,0,9
+,[],2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides10.jpg,"[1, 140]",53,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides11.jpg,"[1, 1]",53,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides13.jpg,"[1, 1]",53,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1535,demog_exp,119.986081732,Slides\Slides12.jpg,"[1, 1]",53,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides1.jpg,"[0, 0]",54,intro,,0,0,0,0
+,[],2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides0.jpg,"[1, 140]",54,debrief,םירמ ינא עבצא הזיא רמולכ ילש דיה לש הבוגתה לע עקרבש דיה תעפשה קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides5.jpg,"[1, 1]",54,degree,1,2,2,0,2
+,[],2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides6.jpg,"[1, 140]",54,faculty,היצינגוק יעדמו היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides7.jpg,"[1, 3]",54,gpa,0,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides2.jpg,"[1, 1]",54,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides3.jpg,"[1, 2]",54,age,19,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides4.jpg,"[3, 3]",54,sat,746,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides8.jpg,"[1, 1]",54,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides9.jpg,"[1, 1]",54,adhd,2,9,9,0,9
+,[],2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides10.jpg,"[1, 140]",54,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides11.jpg,"[1, 1]",54,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides13.jpg,"[1, 1]",54,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1625,demog_exp,120.194041283,Slides\Slides12.jpg,"[1, 1]",54,credit_or_payment,1,13,13,0,13
+,['return'],2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides1.jpg,"[0, 0]",55,intro,,0,0,0,0
+,[],2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides0.jpg,"[1, 140]",55,debrief,רתוי רהמ םיביגמ ימל םיביגמ ךיאו םירפסמל בל תמושת לומ תועבצאה לש הזזהה לש בלה תמושת קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides5.jpg,"[1, 1]",55,degree,2,2,2,0,2
+,[],2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides6.jpg,"[1, 140]",55,faculty, היגולויבוריונ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides7.jpg,"[1, 3]",55,gpa,92,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides2.jpg,"[1, 1]",55,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides3.jpg,"[1, 2]",55,age,23,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides4.jpg,"[3, 3]",55,sat,690,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides8.jpg,"[1, 1]",55,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides9.jpg,"[1, 1]",55,adhd,2,9,9,0,9
+,[],2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides10.jpg,"[1, 140]",55,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides11.jpg,"[1, 1]",55,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides13.jpg,"[1, 1]",55,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1647,demog_exp,119.941756273,Slides\Slides12.jpg,"[1, 1]",55,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides1.jpg,"[0, 0]",56,intro,,0,0,0,0
+,[],2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides0.jpg,"[1, 140]",56,debrief,ןמזב תולתב תיטנימודה דיהב ילמשהו ינמיה דצה ןיב רשקה איה יוסינה תרטמ יתעדל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides5.jpg,"[1, 1]",56,degree,1,2,2,0,2
+,[],2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides6.jpg,"[1, 140]",56,faculty,היגולוכיספ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides7.jpg,"[1, 3]",56,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides2.jpg,"[1, 1]",56,sex,2,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides3.jpg,"[1, 2]",56,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides4.jpg,"[3, 3]",56,sat,607,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides8.jpg,"[1, 1]",56,dominant_hand,1,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides9.jpg,"[1, 1]",56,adhd,2,9,9,0,9
+,[],2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides10.jpg,"[1, 140]",56,lang,תיברע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides11.jpg,"[1, 1]",56,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides13.jpg,"[1, 1]",56,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1713,demog_exp,120.403592776,Slides\Slides12.jpg,"[1, 1]",56,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides1.jpg,"[0, 0]",57,intro,,0,0,0,0
+,[],2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides0.jpg,"[1, 140]",57,debrief,הבוגת ןמז,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides5.jpg,"[1, 1]",57,degree,1,2,2,0,2
+,[],2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides6.jpg,"[1, 140]",57,faculty,םיטפשמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides7.jpg,"[1, 3]",57,gpa,80,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides2.jpg,"[1, 1]",57,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides3.jpg,"[1, 2]",57,age,25,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides4.jpg,"[3, 3]",57,sat,563,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides8.jpg,"[1, 1]",57,dominant_hand,2,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides9.jpg,"[1, 1]",57,adhd,2,9,9,0,9
+,[],2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides10.jpg,"[1, 140]",57,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides11.jpg,"[1, 1]",57,sight,1,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides13.jpg,"[1, 1]",57,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_28_1740,demog_exp,120.005088185,Slides\Slides12.jpg,"[1, 1]",57,credit_or_payment,2,13,13,0,13
+,['return'],2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides1.jpg,"[0, 0]",58,intro,,0,0,0,0
+,[],2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides0.jpg,"[1, 140]",58,debrief,םירהל יתשקבתהש עבצאה תמאב איה ןוטרסב המרוהש עבצמאה םא .עקרב שחרתהש יוריגל םאתהב הבוגת ןמז קודבל,1,1,0,1
+,"['0', '1', '2', '3', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides5.jpg,"[1, 1]",58,degree,1,2,2,0,2
+,[],2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides6.jpg,"[1, 140]",58,faculty,הנידמה יעדמ,3,3,0,3
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides7.jpg,"[1, 3]",58,gpa,90,4,4,0,4
+,"['1', '2', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides2.jpg,"[1, 1]",58,sex,1,5,5,0,5
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides3.jpg,"[1, 2]",58,age,20,6,6,0,6
+,"['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides4.jpg,"[3, 3]",58,sat,710,7,7,0,7
+,"['1', '2', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides8.jpg,"[1, 1]",58,dominant_hand,2,8,8,0,8
+,"['1', '2', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides9.jpg,"[1, 1]",58,adhd,2,9,9,0,9
+,[],2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides10.jpg,"[1, 140]",58,lang,תירבע,10,10,0,10
+,"['1', '2', '3', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides11.jpg,"[1, 1]",58,sight,2,11,11,0,11
+,"['1', '2', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides13.jpg,"[1, 1]",58,color_blind,1,12,12,0,12
+,"['1', '2', 'return', 'backspace']",2020_Jan_30_1339,demog_exp,120.107568374,Slides\Slides12.jpg,"[1, 1]",58,credit_or_payment,2,13,13,0,13

@@ -1,0 +1,11 @@
+FILTERATION REPORT FOR UNFILTERED DATA: 
+***
+Invalid trials included incorrect or omitted responses (9.86%) and trials with premature responses (<0ms). Finally, all data from 2 participants All data from 2 with below-chance accuracy (<50%, 92.31% of 26) on at least one of the conditions were removed. Total filtration amounted to 12.54%.
+***
+                   Mean Response Time   Error Rate     Drift Rate Boundary Separation Non-Decision Time
+Condition (n = 24)                                                                                     
+Baseline                527.5 (75.03)   4.5 (8.36)  0.334 (0.106)       0.114 (0.013)    361.92 (52.79)
+Compatible             508.68 (72.79)   4.58 (8.4)    0.337 (0.1)       0.112 (0.022)    351.75 (48.18)
+Incompatible            538.3 (86.91)  6.08 (5.75)  0.305 (0.094)       0.105 (0.019)    376.75 (66.82)
+Irrelevant             529.72 (83.54)   4.5 (5.65)  0.326 (0.096)       0.112 (0.018)    363.21 (54.34)
+***
