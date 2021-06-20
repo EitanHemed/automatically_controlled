@@ -3,7 +3,7 @@
 #### Corresponding author: [Eitan Hemed](mailto:Eitan.Hemed@gmail.com)
 
 ___
-###About  
+### About  
 This repository contains the [accepted manuscript](./Manuscript.pdf), 
 a text document of the [supplementary materials](./Supplementary%20material.pdf) 
 and all code and data required to reproduce the analyses
@@ -15,7 +15,7 @@ https://github.com/EitanHemed/automatically_controlled/issues)
 or email [Eitan Hemed](mailto:Eitan.Hemed@gmail.com) directly.
 
 ---
-###**How-To**
+### How-To
 The [AuimPy package](./auimpy) consists of classes and functions used 
 to pre-process, analyze and plot the study data. The data is
 saved in the individual experiment directories (e.g., `./exp_2/input`).
@@ -63,7 +63,7 @@ are available in the `data` pd.DataFrame.
    ![Plot](./meta_plots/plots/MMP_filtered_data_True.png)
 
 ---
-###**Dependencies** 
+### Dependencies
 The code might work with other versions, but this has not been tested.
 - Python 3.7.4
 - Jupyter Notebook
@@ -73,4 +73,3 @@ The code might work with other versions, but this has not been tested.
 - Seaborn 0.9.0
 - rpy2 2.9.4 (and an [R](https://www.r-project.org/) version 3.6.1, 
   the required R packages should be installed automatically by `auimpy.pyrio.PyRIO`)
-
