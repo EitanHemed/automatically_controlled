@@ -1,5 +1,5 @@
 ## Automatically Controlled: Task-Irrelevance Fully Cancels Otherwise Automatic Imitation
-### Hemed E., Mark-Tavger I., Hertz U., Bakani-Elkayam S., & Eitam B. (In press, *Journal of Experimental Psychology: General*)
+### Hemed E, Mark-Tavger I., Hertz U., Bakani-Elkayam S., & Eitam B. (In press, *Journal of Experimental Psychology: General*)
 #### Corresponding author: [Eitan Hemed](mailto:Eitan.Hemed@gmail.com)
 
 ___
@@ -16,7 +16,7 @@ or email [Eitan Hemed](mailto:Eitan.Hemed@gmail.com) directly.
 
 ---
 ### How-To
-The [AuimPy package](./auimpy) consists of classes and functions used 
+[AuimPy](./auimpy) consists of classes and functions used 
 to pre-process, analyze and plot the study data. The data is
 saved in the individual experiment directories (e.g., `./exp_2/input`).
 The code generates plots and print-ready formatted textural reports that will be saved in the respective 
