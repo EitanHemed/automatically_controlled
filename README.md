@@ -1,5 +1,5 @@
 ## Automatically Controlled: Task-Irrelevance Fully Cancels Otherwise Automatic Imitation
-### Hemed E, Mark-Tavger I., Hertz U., Bakani-Elkayam S., & Eitam B. (In press, *Journal of Experimental Psychology: General*)
+### Hemed E, Mark-Tavger I., Hertz U., Bakbani-Elkayam S., & Eitam B. (In press, *Journal of Experimental Psychology: General*)
 #### Corresponding author: [Eitan Hemed](mailto:Eitan.Hemed@gmail.com)
 
 ___
