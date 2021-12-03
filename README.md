@@ -1,5 +1,5 @@
-## Automatically Controlled: Task-Irrelevance Fully Cancels Otherwise Automatic Imitation
-### Hemed E, Mark-Tavger I., Hertz U., Bakbani-Elkayam S., & Eitam B. (In press, *Journal of Experimental Psychology: General*)
+## [Automatically Controlled: Task-Irrelevance Fully Cancels Otherwise Automatic Imitation](https://doi.apa.org/record/2022-05593-001)
+### Hemed E, Mark-Tavger I., Hertz U., Bakbani-Elkayam S., & Eitam B. (2021, *Journal of Experimental Psychology: General*)
 #### Corresponding author: [Eitan Hemed](mailto:Eitan.Hemed@gmail.com)
 
 ___
@@ -8,6 +8,8 @@ This repository contains the [accepted manuscript](./Manuscript.pdf),
 a text document of the [supplementary materials](./Supplementary%20material.pdf) 
 and all code and data required to reproduce the analyses
 and plots included in the paper. 
+
+For the published version of the paper, please click [here](https://doi.apa.org/record/2022-05593-001).
 
 If you find any errors or inaccuracies in the code or documentation,
 please submit an [issue](
